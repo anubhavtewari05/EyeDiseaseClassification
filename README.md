@@ -9,6 +9,8 @@ The dataset consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma reti
 
 Data Augmentation has been performed on each image in the dataset. This is how the images look after the data Augmentation process.
 
+Dataset link : https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+
 <img width="359" alt="image" src="https://github.com/anubhavtewari05/EyeDiseaseClassification/assets/58473176/f0f24068-e163-4bae-af49-cb8a1b57660c">
 
 
